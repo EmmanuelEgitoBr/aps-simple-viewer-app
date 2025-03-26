@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autodesk.Authentication" Version="2.0.0" />
+    <PackageReference Include="Autodesk.ModelDerivative" Version="2.1.0" />
+    <PackageReference Include="Autodesk.Oss" Version="2.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="8.0.14" />
+  </ItemGroup>
+
+</Project>

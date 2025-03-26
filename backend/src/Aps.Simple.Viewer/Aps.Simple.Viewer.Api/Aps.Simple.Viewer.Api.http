@@ -1,0 +1,6 @@
+@Aps.Simple.Viewer.Api_HostAddress = http://localhost:5121
+
+GET {{Aps.Simple.Viewer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
